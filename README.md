@@ -47,6 +47,7 @@ endmodule
 
 # Truth Table:
 
+![image](https://user-images.githubusercontent.com/121418437/234777351-04fa5623-f571-4e7c-9598-0178e8d4012e.png)
 
 ## Result:
 Thus the given logic functions are implemented using logic gates.
